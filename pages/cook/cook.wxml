@@ -1,0 +1,78 @@
+<!--pages/cook/cook.wxml-->
+<view class="line"></view>
+<view class="top">
+	<view class="left">
+		<image class="topimg1" src="../img/18.png"></image>
+		<text>已有9个行程</text>
+	</view>
+	<view class="right">
+		<image class="topimg1" src="../img/22.png"></image>
+		<text>历史</text>
+	</view>
+</view>
+<view class="love">
+	<view class="love-item">
+		<view class="love-content">
+			<view class="content1">
+				<image src="../img/22.png"></image>
+				<text>05-09 11:40 周三 名厨上门</text>
+			</view>
+			<view class="content1">
+				<image src="../img/location.png"></image>
+				<text>琣城区 长虹国际大道 翡翠绿湾1栋2单元1802</text>
+			</view>
+		</view>
+		<view class="lovetop">
+			<image class="love-img" src="../img/25.png"></image>
+		</view>
+		<view class="bottom-love">
+			<view class="textleft">
+				<text class="text1">盛夏海鲜家宴</text>
+				<text class="text2">￥4999/桌</text>
+			</view>
+			<view class="right2">
+				<view class="right2-one">
+					<image src="../img/dianhua.png"></image>
+					<text>电话</text>
+				</view>
+				<view class="right2-two">
+					<image src="../img/fuwu.png"></image>
+					<text>服务</text>
+				</view>
+			</view>
+		</view>
+		<button class="btn">我的账单</button>
+	</view>
+	<view class="love-item">
+		<view class="love-content">
+			<view class="content1">
+				<image src="../img/22.png"></image>
+				<text>05-09 11:40 周三 名厨上门</text>
+			</view>
+			<view class="content1">
+				<image src="../img/location.png"></image>
+				<text>园艺山 创新中心 长虹国际大道 慕和南道2期9栋1135</text>
+			</view>
+		</view>
+		<view class="lovetop">
+			<image class="love-img" src="../img/12.png"></image>
+		</view>
+		<view class="bottom-love">
+			<view class="textleft">
+				<text class="text1">豪华海鲜家宴</text>
+				<text class="text2">￥8999/桌</text>
+			</view>
+			<view class="right2">
+				<view class="right2-one">
+					<image src="../img/dianhua.png"></image>
+					<text>电话</text>
+				</view>
+				<view class="right2-two">
+					<image src="../img/fuwu.png"></image>
+					<text>服务</text>
+				</view>
+			</view>
+		</view>
+		<button class="btn">我的账单</button>
+	</view>
+</view>

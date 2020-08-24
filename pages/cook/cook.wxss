@@ -1,0 +1,123 @@
+/* pages/cook/cook.wxss */
+.top{
+  width: 100%;
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+}
+
+.left{
+  font-size: 38rpx;
+  color: black;
+  flex: 3;
+  padding-left: 40rpx;
+}
+.topimg1{
+  width: 42rpx;
+  height: 42rpx;
+  padding-right: 20rpx;
+}
+.right{
+  flex: 1;
+  font-size: 34rpx;
+  color: #808080;
+}
+.line{
+  background-color: #eee;
+  width: 100%;
+  height: 2rpx;
+}
+/* 第二部分 */
+
+/* 资料 */
+.love-content{
+  display: flex;
+  flex-direction: column;
+}
+.content1{
+  display: flex;
+  font-size: 32rpx;
+  margin-bottom: 15rpx;
+}
+.content1 image{
+  width: 42rpx;
+  height: 42rpx;
+  margin-right: 15rpx;
+  margin-left: 15rpx;
+}
+/* end资料 */
+.love{
+  display: flex;
+  flex-direction: column;
+}
+.love-item{
+  display: flex;
+  flex-direction: column;
+  box-shadow: 5rpx 5rpx 10rpx rgb(200,200,200);
+  border-radius: 5%;
+  margin-top: 30rpx;
+  margin-left: 25rpx;
+  margin-right: 25rpx;
+}
+.love-img{
+  height: 400rpx;
+  width: 100%;
+  margin-top: 3rpx;
+}
+.hot{
+  padding-left: 10rpx;
+  width: 30rpx;
+  height: 30rpx;
+}
+.bottom-love{
+  display: flex;
+}
+.textleft{
+  display: flex;
+  flex-direction: column;
+  width: 500rpx;
+  margin-left: 10rpx;
+}
+.text1{
+  font-size: 40rpx;
+  font-weight: bold;
+  color: black;
+}
+.text2{
+  font-size: 34rpx;
+  color: red;
+}
+.right2{
+  width: 200rpx;
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+  font-size: 32rpx;
+  color: #debe7a;
+}
+.right2-one{
+  display: flex;
+  flex-direction: column;
+  margin-right: 40rpx;
+}
+.right2-two{
+  display: flex;
+  flex-direction: column;
+}
+.bottom-love{
+  width: 690rpx;
+  margin-bottom: 20rpx;
+  margin-top: 20rpx;
+}
+.right2 image{
+  width: 50rpx;
+  height: 50rpx;
+}
+.btn{
+  width: 90%;
+  height: 80rpx;
+  background-color: #ff6855;
+  color: white;
+  font-size: 32rpx;
+  margin-bottom: 20rpx;
+}

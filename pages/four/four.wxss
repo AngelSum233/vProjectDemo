@@ -1,0 +1,57 @@
+/* pages/four/four.wxss */
+.top{
+  width: 100%;
+  height: 180rpx;
+  display: flex;
+  align-items: center;
+}
+.toptext{
+  width: 500rpx;
+  padding-left: 30rpx;
+  display: flex;
+  flex-direction: column;
+}
+.toptext1{
+  font-weight: bold;
+  font-size: 50rpx;
+}
+.toptext2{
+  font-size: 32rpx;
+  color: #999;
+  line-height: 60rpx;
+}
+.face1{
+  width: 150rpx;
+  height: 150rpx;
+}
+.line{
+  background-color: #eee;
+  width: 100%;
+  height: 2rpx;
+}
+.myitem{
+  display: flex;
+  height: 110rpx;
+  width: 90%;
+  margin-left: 30rpx;
+  align-items: center;
+}
+.imgbox{
+  flex: 10;
+}
+.imgicon{
+  width: 52rpx;
+  height: 52rpx;
+  padding-right: 30rpx;
+}
+.jiantou{
+  font-size: 50rpx;
+  flex: 1;
+  color: #808080;
+}
+.line2{
+  background-color: #eee;
+  width: 88%;
+  height: 3rpx;
+  float: right;
+}

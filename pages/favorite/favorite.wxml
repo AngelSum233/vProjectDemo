@@ -1,0 +1,52 @@
+<!--pages/favorite/favorite.wxml-->
+<view class="line"></view>
+<view class="top">
+	<view class="left">
+		<image class="topimg1" src="../img/18.png"></image>
+		<text>已收藏12个餐宴</text>
+	</view>
+	<view class="right">
+		<image class="topimg1" src="../img/19.png"></image>
+		<text>清空</text>
+	</view>
+</view>
+<view class="love">
+	<view class="love-item">
+		<view class="lovetop">
+			<image class="love-img" src="../img/25.png"></image>
+			<view class="xuanfu">
+				<image class="hot" src="../img/17.png"></image>
+				<text>18888</text>
+			</view>
+		</view>
+		<view class="bottom-love">
+			<view class="textleft">
+				<text class="text1">盛夏海鲜家宴</text>
+				<text class="text2">￥4999/桌</text>
+			</view>
+			<view class="right2">
+				<image src="../img/20.png"></image>
+				<text>取消收藏</text>
+			</view>
+		</view>
+	</view>
+	<view class="love-item">
+		<view class="lovetop">
+			<image class="love-img" src="../img/12.png"></image>
+		</view>
+		<view class="xuanfu2">
+			<image class="hot" src="../img/17.png"></image>
+			<text>20466</text>
+		</view>
+		<view class="bottom-love">
+			<view class="textleft">
+				<text class="text1">豪华海鲜家宴</text>
+				<text class="text2">￥8999/桌</text>
+			</view>
+			<view class="right2">
+				<image src="../img/20.png"></image>
+				<text>取消收藏</text>
+			</view>
+		</view>
+	</view>
+</view>
